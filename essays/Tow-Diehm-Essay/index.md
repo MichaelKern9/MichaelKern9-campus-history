@@ -1,8 +1,8 @@
 ---
 # Change these five lines as soon as you copy this starter.
-title: Your Essay Title
-author: Your Name
-category: Starter Essay                  # change to a category from the student guide
+title: Tow Diehm Athletic Facility
+author: Michael Kern
+category: Athletics              
 header-image: sample-archive-photo.jpg   # the filename of your own image
 header-caption: Replace with where your header image came from. Plain text only, no links.
 
