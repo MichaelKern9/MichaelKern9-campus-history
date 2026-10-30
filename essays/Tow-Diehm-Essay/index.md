@@ -3,8 +3,8 @@
 title: Tow Diehm Athletic Facility
 author: Michael Kern
 category: Athletics              
-header-image: sample-archive-photo.jpg   # the filename of your own image
-header-caption: Replace with where your header image came from. Plain text only, no links.
+header-image: image.jpeg
+header-caption: New Mexico Digital Archive
 
 # Fill these in later, once your research is under way.
 card-description: Replace this with two sentences that summarize the story your essay tells and why it matters.
