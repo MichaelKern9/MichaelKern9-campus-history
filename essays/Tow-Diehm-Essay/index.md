@@ -13,16 +13,28 @@ start:                                   # the year your story begins, shown on 
 # Leave this line as it is.
 layout: essay
 ---
+The facility's history starts with its namesake. According to UNM's athletics site (GoLobos), Diehm came to UNM in 1957 as athletics trainer and held the job for 31 years. The same page credits his trips to Santa Fe with producing the three-story facility, completed in 1995 in the south end zone of University Stadium. A trade article on the building adds that Diehm is remembered as the "Father of Athletic Training" in New Mexico. ￼
 
-This first paragraph should give readers a quick way into your topic. Start with a scene, a question, a surprising fact, or a problem your essay will explain. You do not need to summarize everything here. Help the reader understand why this campus place, person, organization, object, or event deserves attention.
+A legislative record shows how the building was won. House Joint Memorial 2, introduced by Raymond G. Sanchez in the 1998 special session, says Diehm died of pancreatic cancer on May 1, 1998. It lists his duties beyond training as public relations, fundraising, and serving as the athletic department's liaison to the state legislature, and says he played a significant role in acquiring state funds for the new facility next to the stadium. GoLobos adds that he semi-retired in 1992 but kept working the legislature for UNM until his death. The building was a public investment secured through one person's advocacy. ￼
 
-Keep the above lead paragraph first. Do not put an image, a heading, or any other component above it.
+State support continues (2005)
+
+The state kept equipping the building. Senate capital outlay requests from the 2005 regular session, sponsored by Shannon Robinson and William H. Payne, sought $50,000 for equipping the facility, $50,000 for physical therapy equipment in the training room, and money for video and TV equipment. These are requests, and I did not confirm whether they were funded. ￼
+
+Renovation and private money (2014 to 2023)
+
+By the 2010s the building held athletic offices, common areas, home and visiting locker rooms, and a weight room that had an $800,000 renovation in 2014. The same trade article, which appears to date from about 2020, describes a tankless water heater retrofit designed around a peak hot water demand of 82 gallons per minute. ￼ ￼
+
+The funding model had shifted by 2021. The Santa Fe New Mexican reported on April 2, 2021, that New Mexico Mutual would provide $1 million and receive naming rights to a building connecting to Tow Diehm and reaching within 20 yards of the goalpost. The plan included a tunnel from which the football team could enter and exit the field on game days. A 2023 report says UNM held the grand opening of the UNM New Mexico Mutual Champions Training Center on the north side of Tow Diehm, replacing a temporary facility in a large tent. ￼
+
+The 2026 expansion
+
+In June 2026, UNM announced a $7.5 million expansion. KRQE reported that it included a new team room, an expanded Mark Paulson Strength and Conditioning Center, and a nutrition bar. GoLobos said the project more than tripled the previous Tow Diehm space and allowed gear and equipment to be stored there instead of in the Maloof Center outside the stadium. Athletic Director Ryan Berryman described the project as an important and vital component of the plan for continued facility improvements for Lobo Football. 
+Tow Diehm Athletic Facility is a key part of athletics at The University of New Mexico serving athletes since 1995 when it was buit. It sits at the south end of University Stadium and was named after legendary athletic trainer Tow Diehm who served at the Unversity for 31 years. It's importance is significant for athletes recovering and all the work that is put in behind the scenes in all sports.
 
 ## Main Story
 
-Use this section to tell the most important part of the history. Keep paragraphs short enough for online reading. A good paragraph usually develops one idea, source, moment, or change over time.
-
-Use specific evidence from the archive. Name dates, people, places, decisions, conflicts, renovations, controversies, or missing records when they matter. The goal is not just to list facts. The goal is to explain what those facts reveal about UNM and its history.
+The Tow Diehm Athletic Faciliy shows how UNM athletics went from depending on one man for money and resources because of government ties to private money. He arrived at UNM in 1957 as an athletic trainer, which he held for 31 years. His work led to a three story facility finished in 1995. He was a trainer lobbying lawmakers because of the duties he had such as handling public relations and fundraising. He worked until his death in 1998 so the building carries the name of who got it funded. As time went on the funding continued and many upgrades have been made since then in 2005, 2014, 2021, and 2026. The most recent in June 2026 was a $7.5 million expansion adding a team room and strength and conditioning center. Ultimately this center is a huge part of the Atheltic development of student athletes and recruitment of top reccruits around the country. 
 
 <!-- Full-width figure. This is the default for any landscape photo wider than about 700px.
      image-path is just the filename: upload your images into this essay's folder,
